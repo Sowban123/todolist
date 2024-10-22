@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/ac/54/a1/ac54a128942c750799c2c1fe144d2467.jpg);
+    background-size: cover;
+}
+.container{
+ 
+    width: 40%;
+    height: 70vh;
+
+    margin-left: 63%;
+    margin-top: 10rem;
+    
+}
+h1{
+    font-size: 2rem;
+    margin-bottom: 30px;
+    margin-left: 77px;
+}
+.task{
+ padding: 10px ;
+/* margin: 10px ; */
+height: 5vh;
+width: 15rem;
+border-radius: 16px;
+border: none
+}
+.button{
+    background-color: #2834a5;
+    color: #fff;
+    height: 8vh;
+width: 7rem;
+border-radius: 16px;
+border: none
+}
+.button:hover{
+    background-color: red;
+
+
+}
+li {
+    margin-left: 46px;
+    margin-top: 18px;
+    color: red;
+    font-size: 25px;
+}
